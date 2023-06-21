@@ -1,2 +1,2 @@
-# python_dataviz2023
-SC663401 Basic Programming for Data Science and Data Visualization
+# SC663401 Basic Programming for Data Science and Data Visualization
+> ฐาปนี ฟุ้งขจร
